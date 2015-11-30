@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-30T15:23:04.140Z'
-dateModified: '2015-11-30T15:22:06.208Z'
+datePublished: '2015-11-30T15:43:37.360Z'
+dateModified: '2015-11-30T15:35:58.317Z'
 title: Planning a communication program or campaign is an art and a science.
 author: []
+sourcePath: _posts/2015-11-30-planning-a-communication-program-or-campaign-is-an-art-and-a.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-30-planning-a-communication-program-or-campaign-is-an-art-and-a.md
-published: true
 url: planning-a-communication-program-or-campaign-is-an-art-and-a/index.html
 _type: Article
 
