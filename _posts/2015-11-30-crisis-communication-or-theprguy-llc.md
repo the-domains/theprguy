@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://theprguy.com'
-  name: Theprguy
-  favicon: 'http://theprguy.com/sites/default/files/favicon.ico'
-  domain: theprguy.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://theprguy.com/services/crisis-communication'
+inLanguage: en
+starred: false
 keywords:
   - crisis
   - david
@@ -18,19 +17,22 @@ keywords:
   - actions
   - work
 description: "j0407334.jpg My work with clients in crisis is conducted confidentially. Although I would like to share examples of my work, I'm confident you will appreciate that I cannot do so. However, several clients have been kind enough to offer their perspectives on my work with them during crisis situations."
-inLanguage: en
+datePublished: '2015-11-30T15:49:46.383Z'
+dateModified: '2015-11-30T15:49:41.593Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://theprguy.com/services/crisis-communication'
 title: 'Crisis Communication | thePRguy LLC'
-datePublished: '2015-11-30T15:42:00.561Z'
-dateModified: '2015-11-30T15:40:38.609Z'
 sourcePath: _posts/2015-11-30-crisis-communication-or-theprguy-llc.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Theprguy
+  domain: theprguy.com
+  url: 'http://theprguy.com'
+  favicon: 'http://theprguy.com/sites/default/files/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Crisis Communication &amp;vert; thePRguy LLC</h1><p>j0407334&amp;period;jpg My work with clients in crisis is conducted confidentially&amp;period; Although I would like to share examples of my work&amp;comma; I'm confident you will appreciate that I cannot do so&amp;period; However&amp;comma; several clients have been kind enough to offer their perspectives on my work with them during crisis situations&amp;period;</p><img src="http://theprguy.com/imagebrowser/view/image/311/_original" /></article>
+<article style=""><h1>Crisis Communication</h1><p>Preventing and extinguishing fires</p><img src="http://theprguy.com/imagebrowser/view/image/311/_original" /></article>
