@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[thePRguy]]></title>
+        <description><![CDATA[thePRguy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 15:23:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Planning a communication program or campaign is an art and a science.]]></title>
+            <description><![CDATA[<article><h1>Planning a communication program or campaign is an art and a science.</h1><h2>Communication Planning</h2><p>Through a straightforward, rigorous, facilitated structure, the workshop drives the communication team through a step-by-step process that starts with defining the problem or opportunity the plan is supposed to address. Depending on the core competencies of the participants, the extent to which the actual communication plan is developed during the workshop itself will vary.  In every case, the participants leave the program with a "ready to go" framework to complete a specific communication plan with the appropriate communication professionals in the organization.</p></article>]]></description>
+            <link>undefinedplanning-a-communication-program-or-campaign-is-an-art-and-a/index.html</link>
+            <guid isPermaLink="false">63fd7e10-e580-44cb-9033-aeeb3f7ec1b0</guid>
+            <pubDate>Mon, 30 Nov 2015 15:23:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
