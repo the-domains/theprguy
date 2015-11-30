@@ -1,7 +1,7 @@
 name: thePRguy
 favicon: null
 layout_spectrum: 0.05153841967694461
-typography_spectrum: 0.8036658670753241
+typography_spectrum: 0.89357
 title: Building Better Relationships Through Effective Communication
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.387858712580055
-  lightness: 0.3687714049592614
-  saturation: 0.44419774203561246
+    - '#005daa'
+    - '#b9c5e4'
+    - '#ffffff'
+    - '#7f99cd'
+    - '#d6e1f0'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.6651676737237722
 purpose: []
