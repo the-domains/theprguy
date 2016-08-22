@@ -31,6 +31,9 @@ navigation:
   - name: Credentials
     url: 'http://theprguy.com/about/about-david-kirk-apr-fellow-prsa'
     type: external
+  - name: Accreditation
+    url: 'http://theprguy.com/about/accreditation-public-relations'
+    type: external
 favicon: null
 title: Building Better Relationships Through Effective Communication
 purpose: []
