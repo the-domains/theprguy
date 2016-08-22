@@ -1,20 +1,4 @@
-name: thePRguy
-favicon: null
-layout_spectrum: 0.05153841967694461
 typography_spectrum: 0.89357
-title: Building Better Relationships Through Effective Communication
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#005daa'
@@ -26,4 +10,24 @@ color:
   lightness: 1
   saturation: 0.5
   rhythmicContrast: 0
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.05153841967694461
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: thePRguy
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: About Me
+    url: 'http://theprguy.com/about/theprguys-history-brief'
+    type: external
+favicon: null
+title: Building Better Relationships Through Effective Communication
 purpose: []
