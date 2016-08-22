@@ -28,6 +28,9 @@ navigation:
   - name: About Me
     url: 'http://theprguy.com/about/theprguys-history-brief'
     type: external
+  - name: Credentials
+    url: 'http://theprguy.com/about/about-david-kirk-apr-fellow-prsa'
+    type: external
 favicon: null
 title: Building Better Relationships Through Effective Communication
 purpose: []
